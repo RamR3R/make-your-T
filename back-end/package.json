@@ -1,0 +1,29 @@
+{
+  "name": "make-your-t-backend",
+  "version": "1.0.0",
+  "description": "This is the backend for the make-your-T product site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "keywords": [
+    "e-commerce",
+    "js",
+    "node",
+    "express",
+    "mongoose",
+    "sequelize",
+    "socket.io",
+    "redis",
+    "lld",
+    "aws"
+  ],
+  "author": "Ramsundar Sivakumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.1",
+    "nodemon": "^3.0.1"
+  }
+}
